@@ -1,0 +1,42 @@
+header{
+    background-color: #0A1020;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+header #logo{
+    max-width: 200;
+    padding: 8px;
+
+
+}
+
+body, #sabanard #venturagolf #magnolia{
+    display: inline;
+    vertical-align: middle;
+    right: 0;
+    left: 0;
+}
+
+#sabanard{
+    max-width: 330px;
+    padding-top: 380px;
+    padding-left: 285;
+
+}
+
+#venturagolf{
+    max-width: 250px;
+    padding-left: 85;
+
+
+}
+
+#magnoliard{
+    max-width: 280px;
+    padding-left: 85;
+
+
+}
